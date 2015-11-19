@@ -1,0 +1,56 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1447848700941,
+        "modified": 1447848700941,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1447884882856,
+        "modified": 1447884882856,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1447853671088,
+        "modified": 1447853671088,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1447848700942,
+        "modified": 1447848700942,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SensorMonitor.xdk": {
+        "previousModTime": 1447848701165,
+        "modified": 1447848701165,
+        "seen": true,
+        "name": "SensorMonitor.xdk"
+      },
+      "SensorMonitor.xdke": {
+        "previousModTime": 1447884887781,
+        "modified": 1447884887781,
+        "seen": true,
+        "name": "SensorMonitor.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1447848701134,
+        "modified": 1447848701134,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

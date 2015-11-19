@@ -1,0 +1,11 @@
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\SensorMonitor.Core.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\SensorMonitor.Core.pdb
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\Newtonsoft.Json.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\RabbitMQ.Client.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\SensorMonitor.Domain.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\SensorMonitor.Domain.pdb
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\Newtonsoft.Json.xml
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\bin\Debug\RabbitMQ.Client.xml
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\obj\Debug\SensorMonitor.Core.csprojResolveAssemblyReference.cache
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\obj\Debug\SensorMonitor.Core.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Core\obj\Debug\SensorMonitor.Core.pdb

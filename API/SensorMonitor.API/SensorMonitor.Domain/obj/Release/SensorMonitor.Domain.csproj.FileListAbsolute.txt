@@ -1,0 +1,7 @@
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\bin\Release\SensorMonitor.Domain.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\bin\Release\SensorMonitor.Domain.pdb
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\bin\Release\Newtonsoft.Json.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\bin\Release\Newtonsoft.Json.xml
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\obj\Release\SensorMonitor.Domain.csprojResolveAssemblyReference.cache
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\obj\Release\SensorMonitor.Domain.dll
+C:\IoT\Code\API\SensorMonitor.API\SensorMonitor.Domain\obj\Release\SensorMonitor.Domain.pdb
